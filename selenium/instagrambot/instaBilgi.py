@@ -1,0 +1,2 @@
+kullaniciAdi="{user}"
+sifre="{password}"
